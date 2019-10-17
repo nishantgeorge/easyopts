@@ -1,4 +1,4 @@
-# easyopts - Stupid simple Python options parsing
+# easyopts - Stupid simple command-line options parsing for Python 3
 
 ## Usage
 

@@ -1,5 +1,11 @@
 # easyopts - Stupid simple command-line options parsing for Python 3
 
+## Install
+
+```bash
+pip install easyopts
+```
+
 ## Usage
 
 Arguments should be in the form of --\<opt-name\> \<opt-value\> pairs.
